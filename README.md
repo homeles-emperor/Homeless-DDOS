@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>⚡ Network Stress Testing & Traffic Simulation Toolkit</b>
+  <b>⚡ Network Stresser And attacker </b>
 </p>
 
 <p align="center">
@@ -24,8 +24,7 @@
 
 ## 🧠 About
 
-**Homeless-DDOS** is a lightweight network stress-testing and traffic
-simulation toolkit designed for security research, performance
+**Homeless-DDOS** is a lightweight network stress-testing and traffic toolkit designed for security research, performance
 evaluation, and controlled laboratory environments.
 
 The project helps developers and security researchers understand how
@@ -36,7 +35,7 @@ potential performance bottlenecks.
 
 ## ⚡ Features
 
-- 🚀 Lightweight traffic simulation
+- 🚀 Lightweight traffic 
 - 🎯 Configurable testing parameters
 - 📊 Performance and stability evaluation
 - 🖥️ Command-line interface
@@ -51,7 +50,7 @@ potential performance bottlenecks.
 
 ```text
              ┌─────────────────────┐
-             │    Test Environment  │
+             │   Test Environment  │
              └──────────┬──────────┘
                         │
                         ▼
@@ -61,7 +60,7 @@ potential performance bottlenecks.
                        │
                        ▼
               ┌──────────────────┐
-              │ Traffic Simulation│
+              │ Traffic Attack   │
               └────────┬─────────┘
                        │
                        ▼
